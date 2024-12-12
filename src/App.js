@@ -9,7 +9,7 @@ function App() {
           <div className=" push">
 
                  <div className="fill">
-                      <h2> The Moz Story</h2>
+                      <h2> My First React</h2>
                       <p>We know SEO. In fact, we wrote the blog on it</p>
                  </div>
 
